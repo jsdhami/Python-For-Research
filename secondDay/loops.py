@@ -4,7 +4,7 @@
 # 1. for loop
 # 2. while loop
 
-# for loopJ
+# for loop
 # syntax:
 
 # for variable in sequence:
